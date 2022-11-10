@@ -11,8 +11,7 @@
 
 | Identificador | Funcionalidad | Descripción |
 |-|-|-|
-|   |   | |
-|              |                                        ||
+| F000 | Creación de Posts |  Permite crear un espacio en el cual el usuario personaliza el contenido agregando texto, imágenes y videos   para su publicación.|
 
 
 
