@@ -29,6 +29,7 @@
 
 
 
+
 ## Listado de escenarios
 
 |Id| tester | Funcionalidad | Requerimiento | Tipo | Nombre | Descripción |
@@ -56,5 +57,7 @@
 | Cypress | Amplia documentación y ejemplos considerables utiles par implementar test. | La transición entre paginas de confirmación no es tan intuitiva de configurar.|
 || Amplio conjunto de instrucciones para configurar captura de selectores del DOM. | Con tan amplio set de funcionalidades,  se torna  complejo buscar la opción adecuada que se requiere.|
 | | La interfaz de ejecucion de Test, web como CLI tiene una amplia varieda de features.| No es tan intuitivo para implementar  BDD y requiere un nivel de expertise para configurarlo. | 
+|Playwright| Extensa documentación y multiple variedad  de selectores lo que facilita encotnrar los elementos dentro del DOM | los informes de resultado de pruebas no son tan claros|
+| | Sopore a grabacion de pruebas,  lo que facilita la escritura de las p prueabas   ||
 
 
