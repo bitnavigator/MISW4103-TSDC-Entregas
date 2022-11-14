@@ -42,6 +42,7 @@
 
 ## Pros y Contras Kraken-Cypress-Playwrigth
 | Herramienta | Pros. | Contras |
+|-|-|-|
 | Kraken | Estructura lógica de archivos para escribir TEST de features con escenarios de pruebas con sintaxis BDD.| Poca documentación para tener mas detalle de configuracion de los Steps.|
 | Estructura comprensible y fácil  para escribir los steps, Features , escenarios.| La personalizacion de captura de selectores tiene poca documentación.|
 
