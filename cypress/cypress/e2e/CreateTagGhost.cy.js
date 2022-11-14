@@ -10,9 +10,9 @@ describe('Create Tag  GHOST', () => {
 
         //login to Ghost
         cy.get('form').within(() => {
-            cy.get('input[id="ember6"]').type('mr.gomezc1@uniandes.edu.co')
+            cy.get('input[id="ember6"]').type('mx.gomezxx@uniandes.edu.co')
             cy.wait(1000)
-            cy.get('input[id="ember8"]').type('Conmutador1#')
+            cy.get('input[id="ember8"]').type('xxxxxx')
             cy.get('button[id="ember10"]').click()
         })
         cy.wait(2000)

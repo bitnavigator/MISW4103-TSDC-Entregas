@@ -7,9 +7,9 @@ describe('Login succes to GHOST', () => {
  
     it('I login with email and password', ()=>{
         cy.get('form').within(() => {
-            cy.get('input[id="ember6"]').type('mr.gomezc1@uniandes.edu.co')
+            cy.get('input[id="ember6"]').type('mx.gomezcx@uniandes.edu.co')
             cy.wait(1000)
-            cy.get('input[id="ember8"]').type('Conmutador1#')
+            cy.get('input[id="ember8"]').type('xxxxx')
             cy.get('button[id="ember10"]').click()
         })
         cy.wait(2000)
