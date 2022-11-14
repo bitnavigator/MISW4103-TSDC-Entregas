@@ -27,6 +27,10 @@
 | F013 | Settings Members|Opciones de acceso, suscripción y precios |
 | F014 | Settings Integration|Hacer que Ghost funcione con aplicaciones y herramientas|
 | F015 | Settings Email Newsletter|Personalizar correos electronicos y establecer direcciones de correo electronico|
+| F016 | Creación member |  Permite crear un usuario para la aplicacion.|
+| F017 | Borrar member |  A través de esta opción un user con privilegios de edición y configuración en la plataforma en interfaz principal menú lateral sección members puede eliminar un member de acuerdo a su necesidad.|
+| F018 | Editar member |  A través de esta opción un user con privilegios de edición y configuración en la plataforma en interfaz principal menú lateral sección members puede editar un member de acuerdo a su necesidad.|
+| F019 | Exportar members |  A través de esta opción un user con privilegios de edición y configuración en la plataforma en interfaz principal menú lateral sección members puede exportar los members de acuerdo a su necesidad.|
 
 
 
