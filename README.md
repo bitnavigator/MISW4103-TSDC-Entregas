@@ -54,7 +54,10 @@
 |E0013| Rafael Rodriguez | Settings Membership |Test app Web GHOST. | BDD |Como usuario quiero ingresar a la pagina Ghost y navegar por la opción de Settings Members|Test que permite verificar login con credenciales a app Ghost,navegar por la opción de Settings,opción Members seleccionar Customize Portal y en look and feel seleccionar un icono|
 |E0014| Rafael Rodriguez | Settings integrations|Test app Web GHOST. | BDD |Como usuario quiero ingresar a la pagina Ghost y navegar por la opción de Settings integrations|Test que permite verificar login con credenciales a app Ghost,navegar por la opción de Settings,opción integrations seleccionar Ulysses y visualizar la pagina de referencia externa|
 |E0015| Rafael Rodriguez | Email Newsletter|Test app Web GHOST. | BDD |Como usuario quiero ingresar a la pagina Ghost y navegar por la opción de Settings Email Newsletter|Test que permite verificar login con credenciales a app Ghost,navegar por la opción de Settings,opción Email Newsletter seleccionar customize y en el campo name ingresar un texto|
-
+|E0016| Manuel Vallejo | Create Member succes  GHOST |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y creo un member nuevo con un nombre.|Test que permite verificar login con credenciales a app GHOST , listar los members creados y crear un nombre. el nombre se parametriza en file properties.|
+|E0017| Manuel Vallejo | Edit GHOST Member |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y edito nombre de Member. |Test que permite verificar login con credenciales a app GHOST, escoger un Member existente creado y cambiar o repetir nombre.|
+|E0018| Manuel Vallejo | Borrar Member GHOST |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y borro Member existente.|Test que permite verificar login con credenciales a app GHOST, listar Members, elegir un Member existente y borrarlo. El nombre de Member es parametrizado en file properties.|
+|E0018| Manuel Vallejo | Exportar Members GHOST |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y exporto los Members existentes.|Test que permite verificar login con credenciales a app GHOST, listar Members y exportarlos.|
 
 ## Pros y Contras: Kraken-Cypress-Playwrigth
 | Herramienta | Pros. | Contras |
