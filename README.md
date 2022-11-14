@@ -57,7 +57,7 @@
 |E0016| Manuel Vallejo | Create Member succes  GHOST |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y creo un member nuevo con un nombre.|Test que permite verificar login con credenciales a app GHOST , listar los members creados y crear un nombre. el nombre se parametriza en file properties.|
 |E0017| Manuel Vallejo | Edit GHOST Member |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y edito nombre de Member. |Test que permite verificar login con credenciales a app GHOST, escoger un Member existente creado y cambiar o repetir nombre.|
 |E0018| Manuel Vallejo | Borrar Member GHOST |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y borro Member existente.|Test que permite verificar login con credenciales a app GHOST, listar Members, elegir un Member existente y borrarlo. El nombre de Member es parametrizado en file properties.|
-|E0018| Manuel Vallejo | Exportar Members GHOST |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y exporto los Members existentes.|Test que permite verificar login con credenciales a app GHOST, listar Members y exportarlos.|
+|E0019| Manuel Vallejo | Exportar Members GHOST |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y exporto los Members existentes.|Test que permite verificar login con credenciales a app GHOST, listar Members y exportarlos.|
 
 ## Pros y Contras: Kraken-Cypress-Playwrigth
 | Herramienta | Pros. | Contras |
