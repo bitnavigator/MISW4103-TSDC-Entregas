@@ -22,6 +22,11 @@
 | F008 | Configuración de Posts | Cuando se crea un post permite configurar los siguientes campos la URL del post, los tags asociados al post, la fecha de publicación, las personas que pueden acceder al post, los autores, los metadatos del post, y la publicación en redes sociales.|
 | F009 | Publicación de Posts | Despues de crear/modificar el post se puede publicar a su terminación o agendar para publicar posterioremente.|
 | F010 | previsualizar Posts| Permite tener un primer vistazo antes de publicar el post.|
+| F011 | Settings General|publicación básica y metadatos de sitios de detalles |
+| F012 | Settings Designs|Personalizar el sitio y administrar los temas|
+| F013 | Settings Members|Opciones de acceso, suscripción y precios |
+| F014 | Settings Integration|Hacer que Ghost funcione con aplicaciones y herramientas|
+| F015 | Settings Email Newsletter|Personalizar correos electronicos y establecer direcciones de correo electronico|
 
 
 
@@ -44,7 +49,11 @@
 |E0008| Paola Forero | Configurar Post |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST configuro un nuevo post.|**GIVEN** el usuario administrador ingresa a Ghost ingresa al dashboard, filtra el nombre del post a configurar **WHEN** selecciona el campo de la lista de TAGS **THEN**  el post podria ser publicado con un nuevo tag|
 |E0009| Leonardo Wilches | Eliminar Post |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST elimino un  post.|**GIVEN** el usuario administrador ingresa a Ghost ingresa al dashboard, filtra el nombre del post a eliminar **WHEN** el administrador abre el menú de configuración del editor y selecciona la opción para eliminar el post y confirma la eliminación **THEN**  el post es eliminado|
 |E0009| Paola Forero | Publicar Post |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST publico post.|**GIVEN**  el usuario administrador ingresa a Ghost ,  **WHEN** ingresa a un post, selecciona Publicar , **WHEN**  el post deberia verse en la pagina principal|
-
+|E0011| Rafael Rodriguez | Settings General |Test app Web GHOST. | BDD |Como usuario quiero ingresar a la pagina Ghost y navegar por la opción de Settings general|Test que permite verificar login con credenciales a app Ghost,navegar por la opción de Settings,opción general seleccionar title and description y colocar un texto|
+|E0012| Rafael Rodriguez | Settings Design |Test app Web GHOST. | BDD |Como usuario quiero ingresar a la pagina Ghost y navegar por la opción de Settings Design|Test que permite verificar login con credenciales a app Ghost,navegar por la opción de Settings,opción Design seleccionar brand y en accent Color validar un color|
+|E0013| Rafael Rodriguez | Settings Membership |Test app Web GHOST. | BDD |Como usuario quiero ingresar a la pagina Ghost y navegar por la opción de Settings Members|Test que permite verificar login con credenciales a app Ghost,navegar por la opción de Settings,opción Members seleccionar Customize Portal y en look and feel seleccionar un icono|
+|E0014| Rafael Rodriguez | Settings integrations|Test app Web GHOST. | BDD |Como usuario quiero ingresar a la pagina Ghost y navegar por la opción de Settings integrations|Test que permite verificar login con credenciales a app Ghost,navegar por la opción de Settings,opción integrations seleccionar Ulysses y visualizar la pagina de referencia externa|
+|E0015| Rafael Rodriguez | Email Newsletter|Test app Web GHOST. | BDD |Como usuario quiero ingresar a la pagina Ghost y navegar por la opción de Settings Email Newsletter|Test que permite verificar login con credenciales a app Ghost,navegar por la opción de Settings,opción Email Newsletter seleccionar customize y en el campo name ingresar un texto|
 
 
 ## Pros y Contras: Kraken-Cypress-Playwrigth
