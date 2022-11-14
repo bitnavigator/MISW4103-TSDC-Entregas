@@ -40,7 +40,7 @@
 |E0005| Mario Gomez | Borrar Tag GHOST |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y borro TAG existente.|Test que permite verificar login con credenciales a app GHOST, listar tags, elegir un tag existente y borrarlo. El nombre de TAG es parametrizado en file properties.|
 
 
-## Pros y Contras Kraken-Cypress-Playwrigth
+## Pros y Contras: Kraken-Cypress-Playwrigth
 | Herramienta | Pros. | Contras |
 |-|-|-|
 | Kraken | Estructura lógica de archivos para escribir TEST de features con escenarios de pruebas con sintaxis BDD.| Poca documentación para tener mas detalle de configuracion de los Steps.|
